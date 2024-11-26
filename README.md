@@ -1,4 +1,5 @@
-## original text
+## LEGACY REPOSITORY NO LONGER USED!
+new one: https://github.com/serofyte/serofyte.net-redirect
 
 <h1 align="center">
   <br>
